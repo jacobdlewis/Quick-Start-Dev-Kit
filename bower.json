@@ -1,0 +1,24 @@
+{
+  "name": "Quick-Start-Dev-Kit",
+  "version": "0.0.1",
+  "homepage": "https://github.com/jacobdlewis/Quick-Start-Dev-Kit",
+  "authors": [
+    "jacobdlewis <jacobdlewis@gmail.com>"
+  ],
+  "description": "A template for quickly starting web dev projects",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3",
+    "lodash": "~3.3.1",
+    "bootstrap-sass": "~3.3.3"
+  }
+}
